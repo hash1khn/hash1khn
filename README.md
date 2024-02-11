@@ -23,10 +23,18 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
 
 ## Tech Stack
 
-- **Languages:** C/C++, Python, HTML/CSS, JavaScript
-- **Tools & Frameworks:** Flask, Django (for web development)
-- **Database:** SQLite, MySQL
-- **Version Control:** Git, GitHub
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="background-color: #4B8BBE; color: white; padding: 5px 10px; border-radius: 5px;">Programming Languages: Python</div>
+  <div style="background-color: #F29111; color: white; padding: 5px 10px; border-radius: 5px;">Web Development: Flask, Django, Bottle</div>
+  <div style="background-color: #5B5B5B; color: white; padding: 5px 10px; border-radius: 5px;">Data Processing: Anaconda, Matplotlib</div>
+  <div style="background-color: #3D9970; color: white; padding: 5px 10px; border-radius: 5px;">Web Scraping: BeautifulSoup</div>
+  <div style="background-color: #FF4136; color: white; padding: 5px 10px; border-radius: 5px;">GUI Development: Tkinter</div>
+  <div style="background-color: #6A5DCE; color: white; padding: 5px 10px; border-radius: 5px;">Image Processing: Pillow</div>
+  <div style="background-color: #FF851B; color: white; padding: 5px 10px; border-radius: 5px;">Graphics: Turtle Graphics</div>
+  <div style="background-color: #B10DC9; color: white; padding: 5px 10px; border-radius: 5px;">Modeling and Simulation: (Please specify the tools or libraries you use for modeling and simulation)</div>
+  <div style="background-color: #01FF70; color: white; padding: 5px 10px; border-radius: 5px;">Database: SQLite, MySQL</div>
+  <div style="background-color: #24292E; color: white; padding: 5px 10px; border-radius: 5px;">Version Control: Git, GitHub</div>
+</div>
 
 ## My Interests
 
