@@ -23,7 +23,7 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
 
 ## Tech Stack
 
-```yaml
+```
 - Programming Languages:
   - Python
 
@@ -58,6 +58,7 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
 - Version Control:
   - Git
   - GitHub
+```
 
 ## My Interests
 
