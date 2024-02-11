@@ -5,12 +5,12 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
 
 ## About Me
 
-- 🔭 I’m currently working on [Current Project/Work]
+- 🔭 I’m currently an Undegrad Student @FAST NUCES.
 - 🌱 I’m currently learning Python,JS
 - 👯 I’m looking to collaborate on python,frontend,ML projects.
-- 💬 Ask me about [Topics or Technologies You're Knowledgeable About]
-- 📫 How to reach me: [Your Contact Information or Social Media Profiles]
-- 😄 Pronouns: [Your Pronouns]
+- 💬 Ask me about 
+- 📫 How to reach me:linkedin:https://www.linkedin.com/in/hashirahmedkhan/
+- 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: [Interesting Fact About Yourself]
 
 ## Skills
@@ -48,9 +48,6 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
 - Graphics:
   - Turtle Graphics
 
-- Modeling and Simulation:
-  - (Please specify the tools or libraries you use for modeling and simulation)
-
 - Database:
   - SQLite
   - MySQL
@@ -59,12 +56,6 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
   - Git
   - GitHub
 ```
-
-## My Interests
-
-- **Photography:** I'm captivated by the art of photography. Exploring different perspectives, capturing moments, and expressing emotions through visual storytelling is a passion of mine.
-- **Photo Editing:** Alongside my photography journey, I've developed a keen interest in photo editing. I enjoy enhancing and transforming images to bring out their full potential, utilizing software such as Adobe Photoshop and Lightroom.
-- **Coding:** As a Computer Science student, coding is a significant part of my life. I'm enthusiastic about developing software and applications that can make a positive impact.
 
 ## Opportunities
 
