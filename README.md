@@ -8,10 +8,10 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
 - 🔭 I’m currently an Undegrad Student @FAST NUCES.
 - 🌱 I’m currently learning Python,JS
 - 👯 I’m looking to collaborate on python,frontend,ML projects.
-- 💬 Ask me about 
+- 💬 Ask me about :Latest tech
 - 📫 How to reach me:linkedin:https://www.linkedin.com/in/hashirahmedkhan/
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: [Interesting Fact About Yourself]
+- ⚡ Fun fact: I can easily switch to any Tech Stack xD.
 
 ## Skills
 
