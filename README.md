@@ -7,7 +7,7 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
 
 - 🔭 I’m currently an Undegrad Student @FAST NUCES.
 - 🌱 I’m currently learning Python,JS
-- 👯 I’m looking to collaborate on python,frontend,ML projects.
+- 👯 I’m looking to collaborate on web dev(Backend),ML & DS projects.
 - 💬 Ask me about :Latest tech
 - 📫 How to reach me:linkedin:https://www.linkedin.com/in/hashirahmedkhan/
 - 😄 Pronouns: HE/HIM
@@ -31,22 +31,18 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
   - Flask
   - Django
   - Bottle
-
-- Data Processing:
-  - Anaconda
-  - Matplotlib
+  - Node ,Express
 
 - Web Scraping:
   - BeautifulSoup
+  - Selenium
 
 - GUI Development:
   - Tkinter
+  - Turtle Graphics
 
 - Image Processing:
   - Pillow
-
-- Graphics:
-  - Turtle Graphics
 
 - Database:
   - SQLite
