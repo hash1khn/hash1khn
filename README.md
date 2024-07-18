@@ -16,7 +16,7 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
 ## Skills
 
 - **Programming Languages:** C/C++, Python
-- **Web Development:** HTML/CSS, JavaScript
+- **Web Development:** HTML/CSS, JavaScript,Node, Express
 - **Problem-solving:** Strong analytical and critical thinking skills
 - **Teamwork:** Effective communication and collaboration abilities
 - **Self-motivated:** Quick learner with a growth mindset
@@ -31,7 +31,7 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
   - Flask
   - Django
   - Bottle
-  - Node ,Express
+  - Node,Express
 
 - Web Scraping:
   - BeautifulSoup
@@ -47,6 +47,7 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
 - Database:
   - SQLite
   - MySQL
+  - MongoDB
 
 - Version Control:
   - Git
