@@ -45,9 +45,11 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
   - Pillow
 
 - Database:
+  - Postgresql
   - SQLite
   - MySQL
   - MongoDB
+  -Prisma ORM
 
 - Version Control:
   - Git
