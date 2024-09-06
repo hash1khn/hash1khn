@@ -6,17 +6,13 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
 ## About Me
 
 - 🔭 I’m currently an Undegrad Student @FAST NUCES.
-- 🌱 I’m currently learning Python,JS
 - 👯 I’m looking to collaborate on web dev(Backend),ML & DS projects.
-- 💬 Ask me about :Latest tech
 - 📫 How to reach me:linkedin:https://www.linkedin.com/in/hashirahmedkhan/
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I can easily switch to any Tech Stack xD.
 
 ## Skills
 
-- **Programming Languages:** C/C++, Python
-- **Web Development:** HTML/CSS, JavaScript,Node, Express
+- **Programming Languages:** C/C++, Python,JavaScript
+- **Web Development:** HTML/CSS, JavaScript,Node, Express,Flask ,Django ,FastApi
 - **Problem-solving:** Strong analytical and critical thinking skills
 - **Teamwork:** Effective communication and collaboration abilities
 - **Self-motivated:** Quick learner with a growth mindset
@@ -32,6 +28,7 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
   - Django
   - Bottle
   - Node,Express
+  -FastApi
 
 - Web Scraping:
   - BeautifulSoup
@@ -49,7 +46,7 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
   - SQLite
   - MySQL
   - MongoDB
-  -Prisma ORM
+  - Prisma ORM
 
 - Version Control:
   - Git
