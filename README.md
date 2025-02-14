@@ -20,15 +20,14 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
 ## Tech Stack
 
 ```
-- Programming Languages:
-  - Python
-
 - Web Development:
   - Flask
   - Django
-  - Bottle
   - Node,Express
   -FastApi
+  -Next Js
+  -React Js
+  
 
 - Web Scraping:
   - BeautifulSoup
