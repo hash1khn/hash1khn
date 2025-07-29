@@ -6,7 +6,7 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
 ## About Me
 
 - 🔭 I’m currently an Undegrad Student @FAST NUCES.
-- 👯 I’m looking to collaborate on web dev(Backend),ML & DS projects.
+- 👯 I’m looking to collaborate on web & app dev(Backend),ML & DS projects.
 - 📫 How to reach me:linkedin:https://www.linkedin.com/in/hashirahmedkhan/
 
 ## Skills
