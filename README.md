@@ -24,9 +24,11 @@ I'm a highly motivated Computer Science student eager to kick-start my career in
   - Flask
   - Django
   - Node,Express
-  -FastApi
-  -Next Js
-  -React Js
+  - FastApi
+  - Next Js
+  - Supabase
+  - Nest Js
+  - React Js
   
 
 - Web Scraping:
