@@ -1,3 +1,5 @@
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fhash1khn&style=flat)](https://rankistan.dev/#hash1khn)
+
 # Hello!, I'm Hashir! 👋
 
 I'm a highly motivated Computer Science student eager to kick-start my career in the field of software development. With a strong academic foundation and a passion for technology, I am excited to contribute my skills to innovative projects and learn from experienced professionals.
