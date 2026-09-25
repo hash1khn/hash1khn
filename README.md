@@ -1,63 +1,69 @@
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fhash1khn&style=flat)](https://rankistan.dev/#hash1khn)
+# Hey, I'm Hashir 👋
 
-# Hello!, I'm Hashir! 👋
+I'm a **Computer Science graduate and backend-focused full-stack developer** with 2+ years of experience building and shipping web and mobile products.
 
-I'm a highly motivated Computer Science student eager to kick-start my career in the field of software development. With a strong academic foundation and a passion for technology, I am excited to contribute my skills to innovative projects and learn from experienced professionals.
+I primarily work with **TypeScript, Node.js, NestJS, PostgreSQL, Redis, React, and Next.js**. I've worked in startup environments where I've been involved in everything from backend architecture and development to deployment and production.
 
+Currently, I'm also diving deeper into **AI engineering** and building practical projects with LLMs, RAG, tool calling, and AI agents.
 
-## About Me
+---
 
-- 🔭 I’m currently an Undegrad Student @FAST NUCES.
-- 👯 I’m looking to collaborate on web & app dev(Backend),ML & DS projects.
-- 📫 How to reach me:linkedin:https://www.linkedin.com/in/hashirahmedkhan/
+## 🛠️ Tech Stack
 
-## Skills
+**Languages**
 
-- **Programming Languages:** C/C++, Python,JavaScript
-- **Web Development:** HTML/CSS, JavaScript,Node, Express,Flask ,Django ,FastApi
-- **Problem-solving:** Strong analytical and critical thinking skills
-- **Teamwork:** Effective communication and collaboration abilities
-- **Self-motivated:** Quick learner with a growth mindset
+`TypeScript` `JavaScript` `Python` `C/C++`
 
-## Tech Stack
+**Backend**
 
-```
-- Web Development:
-  - Flask
-  - Django
-  - Node,Express
-  - FastApi
-  - Next Js
-  - Supabase
-  - Nest Js
-  - React Js
-  
+`Node.js` `NestJS` `Express` `REST APIs` `Socket.IO` `Prisma`
 
-- Web Scraping:
-  - BeautifulSoup
-  - Selenium
+**Frontend & Mobile**
 
-- GUI Development:
-  - Tkinter
-  - Turtle Graphics
+`React` `Next.js` `React Native` `Expo` `Tailwind CSS`
 
-- Image Processing:
-  - Pillow
+**Databases**
 
-- Database:
-  - Postgresql
-  - SQLite
-  - MySQL
-  - MongoDB
-  - Prisma ORM
+`PostgreSQL` `MongoDB` `MySQL` `Redis` `Supabase`
 
-- Version Control:
-  - Git
-  - GitHub
-```
+**Cloud & DevOps**
 
-## Opportunities
+`AWS` `DigitalOcean` `Docker` `Railway` `Vercel`
 
-I'm open to internships, entry-level positions, and collaborative projects where I can apply my knowledge and continue to grow as a developer. If you're interested in connecting or have any opportunities available, please feel free to reach out to me.
+**AI / LLM**
 
-Let's connect and shape the future of technology together!
+`LLM APIs` `RAG` `Tool Calling` `Structured Outputs` `AI Agents` `Vector Search`
+
+---
+
+## 🚀 What I'm Building
+
+- 🤖 AI agents and LLM-powered applications
+- 🔎 RAG and hybrid search systems
+- 🏗️ Scalable backend systems and APIs
+- ⚡ Real-time applications and distributed systems
+- 📱 Web and mobile products
+
+I prefer **building things and learning through implementation** rather than just following tutorials.
+
+---
+
+## 💼 Experience
+
+I've worked on products across:
+
+- Corporate transportation & mobility
+- SaaS platforms
+- Marketplaces
+- Mobile applications
+- AI-powered applications
+- Backend systems & APIs
+- Data processing and automation
+
+I've also worked in startup environments where I've been involved in **technical architecture, product development, deployment, and engineering decisions**.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hashirahmedkhan/)
