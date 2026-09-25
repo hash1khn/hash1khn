@@ -165,11 +165,6 @@ I use AI as a learning partner for explaining concepts, brainstorming, debugging
 ---
 
 ## GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hash1khn&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash1khn&layout=compact&hide_border=true&langs_count=8" />
-</div>
 <br />
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hash1khn&hide_border=true" />
