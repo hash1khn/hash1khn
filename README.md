@@ -175,12 +175,6 @@ I use AI as a learning partner for explaining concepts, brainstorming, debugging
   <img src="https://streak-stats.demolab.com?user=hash1khn&hide_border=true" />
 </div>
 
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hash1khn&hide_border=true&area=true" />
-</div>
-
 ---
 
 ## Experience
