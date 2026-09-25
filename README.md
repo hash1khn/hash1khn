@@ -2,7 +2,7 @@
 
 # Hey, I'm Hashir 👋
 
-### Backend-focused Full-Stack Developer · AI Engineering
+### Backend-focused Full-Stack Engineer · AI Engineering
 
 CS Graduate · 2+ Years Experience · Startup / CTO Experience
 
