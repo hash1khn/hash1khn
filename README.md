@@ -38,13 +38,13 @@ I'm currently going deeper into **AI engineering**, building practical applicati
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏗️ Backend Engineering
+### Backend Engineering
 
 - REST APIs
 - Backend architecture
@@ -60,7 +60,7 @@ I'm currently going deeper into **AI engineering**, building practical applicati
 
 <td width="50%">
 
-### 🤖 AI Engineering
+### AI Engineering
 
 - LLM-powered applications
 - RAG pipelines
@@ -78,7 +78,7 @@ I'm currently going deeper into **AI engineering**, building practical applicati
 
 ---
 
-# 🧰 Tech Stack
+# Tech Stack
 
 ## Backend
 
@@ -126,7 +126,7 @@ I'm currently going deeper into **AI engineering**, building practical applicati
 
 ---
 
-# 🧠 Currently Learning
+# Currently Learning
 
 ```text
 AI Engineering
@@ -152,7 +152,7 @@ Backend / Systems
 
 ---
 
-## 🔨 How I Learn
+## How I Learn
 
 I prefer learning by building:
 
@@ -164,7 +164,7 @@ I use AI as a learning partner for explaining concepts, brainstorming, debugging
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=hash1khn&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
@@ -175,7 +175,7 @@ I use AI as a learning partner for explaining concepts, brainstorming, debugging
   <img src="https://streak-stats.demolab.com?user=hash1khn&hide_border=true" />
 </div>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hash1khn&hide_border=true&area=true" />
@@ -183,29 +183,29 @@ I use AI as a learning partner for explaining concepts, brainstorming, debugging
 
 ---
 
-## 💼 Experience
+## Experience
 
 I've worked across different types of products and engineering environments, including:
 
-- 🚗 Corporate transportation & mobility
-- 🧾 SaaS platforms
-- 🛍️ Marketplace applications
-- 📱 Mobile applications
-- 🤖 AI-powered applications
-- 🔌 Backend APIs & integrations
-- ⚙️ Automation & data processing
+- Corporate transportation & mobility
+- SaaS platforms
+- Marketplace applications
+- Mobile applications
+- AI-powered applications
+- Backend APIs & integrations
+- Automation & data processing
 
 My startup experience has also involved working across architecture, product decisions, development, deployment, and production systems — rather than focusing only on individual features.
 
 ---
 
-## 🌱 What I'm Interested In
+## What I'm Interested In
 
 `Backend Engineering` · `AI Engineering` · `Developer Tools` · `Startups` · `System Design` · `Distributed Systems` · `LLM Applications` · `AI Agents` · `Scalable APIs` · `Real-world Products`
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hashirahmedkhan/">
@@ -221,4 +221,4 @@ My startup experience has also involved working across architecture, product dec
 
 <br />
 
-<p align="center"><i>Building. Learning. Shipping. 🚀</i></p>
+<p align="center"><i>Building. Learning. Shipping.</i></p>
